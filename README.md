@@ -169,4 +169,4 @@ The repository is expected to reproduce the following checkpoints (up to roundin
 
 ## How to cite
 
-
+Pajuhaan, M. (2026). Relator Z4-locked emergence of the massive bosons (W,Z,H) and a Z5 multi-TeV charged quartet. Zenodo. https://doi.org/10.5281/zenodo.18769333
